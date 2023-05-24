@@ -1,0 +1,28 @@
+{
+  "source": "/Users/daniel/Desktop/EECS/441/App/DerivedData/App/Build/Intermediates.noindex/Previews/App/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/Objects-normal/x86_64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "MEET'R"
+      },
+      {
+        "comment": "",
+        "key": "Map"
+      },
+      {
+        "comment": "",
+        "key": "Connections"
+      },
+      {
+        "comment": "",
+        "key": "Messages"
+      },
+      {
+        "comment": "",
+        "key": "Account"
+      }
+    ]
+  },
+  "version": 1
+}

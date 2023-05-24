@@ -1,0 +1,20 @@
+{
+  "source": "/Users/daniel/Desktop/EECS/441/App/App/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Connections"
+      },
+      {
+        "comment": "",
+        "key": "Messages"
+      },
+      {
+        "comment": "",
+        "key": "Account"
+      }
+    ]
+  },
+  "version": 1
+}

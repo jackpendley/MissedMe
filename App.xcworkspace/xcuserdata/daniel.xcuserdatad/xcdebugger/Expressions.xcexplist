@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LocationManager.isOtherUserInRegion(otherUserLocation:):LocationServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.regionRadius">
+            </PersistentString>
+            <PersistentString
+               value = "currentLoc.distance(from: otherUserLocation) &lt;= self.regionRadius">
+            </PersistentString>
+            <PersistentString
+               value = "currentLoc.distance(from: otherUserLocation)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in LocationManager.addOtherUserToConnectionsSubcollection(email:location:):LocationServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in LocationManager.locationManager():LocationServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentUserEmail">
+            </PersistentString>
+            <PersistentString
+               value = "document.documentID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationManager.setupLocationManager():LocationServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationManager.location">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LocationManager.addOtherUserToConnectionsSubcollection(email:location:):LocationServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data?[&quot;firstName&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+App in App, no dependencies
+App in App, no dependencies
+AppTests in App, depends on:
+App in App (explicit)
+AppTests in App, depends on:
+App in App (explicit)
+AppTests in App, no dependencies
+AppUITests in App, depends on:
+App in App (explicit)
+AppUITests in App, depends on:
+App in App (explicit)
+AppUITests in App, no dependencies

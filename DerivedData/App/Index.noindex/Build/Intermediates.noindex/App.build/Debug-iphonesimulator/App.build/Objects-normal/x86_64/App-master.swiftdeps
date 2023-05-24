@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3d95a13db2334b3ab2274ec1ec7f2eeb4f9eab1e9659612b8d0d377841cce438"
+build_start_time: [1674591184, 565356016]
+build_end_time: [1674591188, 169732093]
+inputs:
+  "/Users/daniel/Desktop/EECS/441/App/App/AppApp.swift": [1674591161, 31087398]
+  "/Users/daniel/Desktop/EECS/441/App/App/ContentView.swift": [1674591161, 40246009]
+  "/Users/daniel/Desktop/EECS/441/App/App/Persistence.swift": [1674591162, 881455421]
+  ? "/Users/daniel/Desktop/EECS/441/App/DerivedData/App/Index.noindex/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/DerivedSources/CoreDataGenerated/App/App+CoreDataModel.swift"
+  : [1674591170, 834592342]
+  ? "/Users/daniel/Desktop/EECS/441/App/DerivedData/App/Index.noindex/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/DerivedSources/CoreDataGenerated/App/Item+CoreDataClass.swift"
+  : [1674591170, 841444969]
+  ? "/Users/daniel/Desktop/EECS/441/App/DerivedData/App/Index.noindex/Build/Intermediates.noindex/App.build/Debug-iphonesimulator/App.build/DerivedSources/CoreDataGenerated/App/Item+CoreDataProperties.swift"
+  : [1674591170, 843585252]

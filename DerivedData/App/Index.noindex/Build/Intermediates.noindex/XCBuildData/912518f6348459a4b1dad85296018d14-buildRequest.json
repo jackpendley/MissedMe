@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "0ca3007d900a678c2b4d53418799ee3d505f4e0e9dc704b9933da30edd437628"
+    },
+    {
+      "guid" : "0ca3007d900a678c2b4d53418799ee3d4446028a02e2127266780af6b15b2d14"
+    },
+    {
+      "guid" : "0ca3007d900a678c2b4d53418799ee3d2017e860007480df88bcbec83f9898d1"
+    }
+  ],
+  "containerPath" : "/Users/daniel/Desktop/EECS/441/App/App.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/daniel/Desktop/EECS/441/App/DerivedData/App/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/daniel/Desktop/EECS/441/App/DerivedData/App/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/daniel/Desktop/EECS/441/App/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/daniel/Desktop/EECS/441/App/DerivedData/App/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/daniel/Desktop/EECS/441/App/DerivedData/App/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/daniel/Desktop/EECS/441/App/DerivedData/App/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/daniel/Desktop/EECS/441/App/DerivedData/App/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
